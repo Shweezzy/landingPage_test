@@ -1,0 +1,385 @@
+body {
+    position: absolute;
+    width: 1445px;
+    height: 4185px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.menu li {
+
+    display: inline-block;
+    vertical-align: top;
+}
+
+.menu a {
+    color: #828282 !important;
+    text-decoration: none
+}
+
+li {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+#home {
+    position: absolute;
+    left: 17.3%;
+    right: 76.47%;
+    top: 0.84%;
+    bottom: 98.53%;
+}
+
+#aboutMe {
+    position: absolute;
+    left: 32.46%;
+    right: 61.31%;
+    top: 0.84%;
+    bottom: 98.53%;
+}
+
+#skills {
+    position: absolute;
+    left: 47.47%;
+    right: 46.3%;
+    top: 0.84%;
+    bottom: 98.53%;
+}
+
+#portfolio {
+    position: absolute;
+    left: 62.49%;
+    right: 31.28%;
+    top: 0.84%;
+    bottom: 98.53%;
+    text-align: center;
+}
+
+#contacts {
+    position: absolute;
+    left: 77.51%;
+    right: 17.3%;
+    top: 0.84%;
+    bottom: 98.53%;
+}
+
+hr {
+    position: absolute;
+    width: 945px;
+    height: 0px;
+    left: 250px;
+    top: 90px;
+
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.gome {
+    position: absolute;
+    width: 945px;
+    height: 615px;
+    left: 250px;
+    top: 125px;
+}
+
+#fullName {
+    position: absolute;
+    left: 17.3%;
+    right: 60.07%;
+    top: 2.63%;
+    bottom: 96.11%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 47.3392px;
+    line-height: 55px;
+
+    color: #070707;
+}
+
+#profession {
+    position: absolute;
+    left: 64.78%;
+    right: 17.3%;
+    top: 2.75%;
+    bottom: 96.2%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: right;
+    color: #070707;
+}
+
+#BSPP2266 {
+    position: absolute;
+    width: 945px;
+    height: 500px;
+    left: 250px;
+    top: 240px;
+
+    background: url(img/laptop-5842509_1920.jpg);
+    border-radius: 5px;
+}
+
+.aboutMe {
+    position: absolute;
+    width: 1445px;
+    height: 640px;
+    left: 0px;
+    top: 840px;
+
+    background: #F4F4F4;
+}
+
+#title {
+    position: absolute;
+    left: 17.3%;
+    right: 17.3%;
+    bottom: 80.37%;
+    margin-top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    color: #070707;
+}
+
+#photo {
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    left: 250px;
+    margin-top: 140px;
+
+    background: url(img/image.jpg);
+    border-radius: 5px;
+}
+
+#info {
+    position: absolute;
+    width: 451px;
+    height: 220px;
+    right: 250px;
+    margin-top: 255px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #070707;
+}
+
+.skills {
+    position: absolute;
+    width: 945px;
+    height: 299px;
+    left: 250px;
+    top: 1530px;
+}
+
+.skills h1 {
+    position: absolute;
+    left: 17.3%;
+    right: 17.3%;
+    bottom: 66.93%;
+    margin-top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.group1 {
+    position: absolute;
+    width: 170px;
+    height: 205px;
+    left: 0px;
+    margin-top: 144px;
+}
+
+.group2 {
+    position: absolute;
+    width: 170px;
+    height: 205px;
+    left: 258px;
+    margin-top: 144px;
+}
+
+.group3 {
+    position: absolute;
+    width: 170px;
+    height: 205px;
+    left: 516px;
+    margin-top: 144px;
+}
+
+.group4 {
+    position: absolute;
+    width: 170px;
+    height: 205px;
+    left: 774px;
+    margin-top: 144px;
+
+}
+
+.portfolio {
+    position: absolute;
+    width: 1445px;
+    height: 2087px;
+    left: 0px;
+    top: 1879px;
+    margin-top: 50px;
+
+    background: #F4F4F4;
+}
+
+.portfolio h1 {
+    position: absolute;
+    left: 17.3%;
+    right: 17.3%;
+    margin-top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    color: #070707;
+}
+
+#fashionStore {
+    position: absolute;
+    left: 40.42%;
+    right: 40.48%;
+    margin-top: 693px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+}
+
+#sneakers {
+    position: absolute;
+    width: 945px;
+    height: 510px;
+    left: 250px;
+
+    margin-top: 143px;
+
+    background: url(img/Screenshot_1.png);
+    border-radius: 5px;
+}
+
+#helias {
+    position: absolute;
+    width: 945px;
+    height: 510px;
+    left: 250px;
+    margin-top: 803px;
+
+    background: url(img/Screenshot_2.png);
+    border-radius: 5px;
+}
+
+#heliasStore {
+    position: absolute;
+    left: 17.3%;
+    right: 17.3%;
+    bottom: 31.58%;
+    margin-top: 1353px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+}
+
+#hoangNguen {
+    position: absolute;
+    width: 945px;
+    height: 510px;
+    left: 250px;
+    margin-top: 1463px;
+
+    background: url(img/Screenshot_3.png);
+    border-radius: 5px;
+}
+
+#hoangStore {
+    position: absolute;
+    left: 17.3%;
+    right: 17.3%;
+    margin-top: 2013px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+}
+
+.footer {
+    display: block;
+    position: absolute;
+    width: 945px;
+    height: 219px;
+    left: 250px;
+    top: 4016px;
+    margin-top: 50px;
+}
+
+.footer h1 {
+    position: absolute;
+    left: 17.3%;
+    right: 17.3%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+}
+
+#icons {
+    display: flex;
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: 33%;
+    margin-top: 119px;
+}
+
+#icons div {
+    margin: 20px;
+    left: 0px;
+}
